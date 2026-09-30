@@ -1,11 +1,16 @@
 # Telegram Meme Maker Bot — Viral, Legal, No Capital
 
+**Live Bot:** https://t.me/Nova3st_bot — by Mohsen Fazeli (Nova Web3 Studio)
+
 Makes a classic white Impact meme from any photo in <2 sec. Built to go viral on Telegram.
+
+Try it now: https://t.me/Nova3st_bot → send a photo
 
 ## Why this goes viral (vs. music leak bot)
 - Music leak = instant ban + lawsuit. Meme bot = 100% legal, every share brings 2-3 new users.
 - Inline share `↗️` lets anyone forward the meme to any group in 1 tap — each share is free marketing.
 - No API cost, no OpenAI key, runs on your laptop.
+- **Live:** https://t.me/Nova3st_bot
 
 ## What it does
 - User sends photo + caption `top | bottom` (e.g. `وقتی میگی دیگه سفارش نمیدم | پنج دقیقه بعد:`)
@@ -51,4 +56,9 @@ Makes a classic white Impact meme from any photo in <2 sec. Built to go viral on
 - `config.example.json` — token template
 - `state.json` — auto-created stats
 
-Made for Mohsen — Nova Web3 Studio
+## Live Demo
+- Bot: https://t.me/Nova3st_bot
+- Author: Mohsen Fazeli — mohsenfazeli905@gmail.com — @surgestall — Istanbul Technical University (ITU)
+- License: MIT
+
+Made for Mohsen — Nova Web3 Studio — Istanbul, Turkey
